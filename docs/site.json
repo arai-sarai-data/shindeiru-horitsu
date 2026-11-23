@@ -1,0 +1,31 @@
+{
+ "repo": "arai-sarai-data/shindeiru-horitsu",
+ "title": "死んでいる法律発見器",
+ "title_en": "Dead Law Finder",
+ "short": "死んでいる法律発見器",
+ "short_en": "Dead Law Finder",
+ "tagline": "何十年も、誰も手を入れていない法律がある。e-Govの全法律から、最後に改正されてから長くたった法律を探します。",
+ "tagline_en": "Some laws haven't been touched in decades. We scan every Japanese statute on e-Gov for the ones left untouched the longest.",
+ "color": "#495057",
+ "hashtags": [
+  "法律",
+  "e-Gov"
+ ],
+ "langs": [
+  "ja",
+  "en"
+ ],
+ "search": {
+  "placeholder": "法律名・法令番号で検索",
+  "placeholder_en": "Search"
+ },
+ "about": {
+  "what": "e-Gov法令APIで現行の全法律を取得し、最後の改正からの年数で並べます。役目を終えたのに残っている法律、見直しが必要な法律を見つける材料にしてください。",
+  "method": "最後の改正法の公布日（改正がなければ公布日）から今日までの年数。",
+  "notes": [
+   "改正されていない＝不要、ではありません。",
+   "政令・省令は含みません。"
+  ]
+ },
+ "contact": "arai-sarai-data@proton.me"
+}

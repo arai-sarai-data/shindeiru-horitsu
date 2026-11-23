@@ -1,0 +1,1 @@
+{"data_period":"現行法令（2026-11-23時点）","stats":[{"label":"数えた現行の法律","value":2103,"unit":"本"},{"label":"30年以上改正なし","value":175,"unit":"本"},{"label":"一度も改正なし","value":243,"unit":"本"}],"sources":[{"name":"e-Gov法令検索・法令API（Version 2）","org":"デジタル庁","url":"https://laws.e-gov.go.jp/","license":"政府標準利用規約（第2.0版）"}],"status":"ok","updated":"2026-11-23"}
